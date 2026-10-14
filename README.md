@@ -59,3 +59,11 @@ The original source of the GeoPackage dataset has not yet been verified. Due to 
 Location: Baku, Azerbaijan
 
 Focus: Data Science, Machine Learning, and Geospatial Analysis
+
+## Data
+
+The project uses geographic data for Azerbaijan in GeoPackage format.
+
+Source: [Geofabrik — Azerbaijan OpenStreetMap Data](https://download.geofabrik.de/asia/azerbaijan.html)
+
+The dataset is used for geographic analysis and business location recommendations in Baku. Due to its size, the GeoPackage file is not included in this repository.
